@@ -48,6 +48,11 @@ The IP address of the Kali Linux VM was verified to ensure proper communication 
 
 4.Network Connectivity Verification
 
-![NETWORK CONNECTIVITY TEST])https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/8.%20NETWORK%20CONNECTIVITY%20TEST.PNG?raw=true)
+![NETWORK CONNECTIVITY TEST](https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/8.%20NETWORK%20CONNECTIVITY%20TEST.PNG?raw=true)
 
 A ping test was performed from Windows Server to Kali Linux (192.168.56.101) to confirm successful network connectivity.
+
+5.Starting Splunk Enterprise
+
+![sPLUNK OPEN](https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/sPLUNK%20OPEN.PNG?raw=true)
+Splunk Enterprise service was started successfully on the Kali Linux machine.
