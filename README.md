@@ -23,3 +23,12 @@ Roll: 60006
 - Report
 - Screenshots
 - Configuration Files# CSE802-Adversary-Emulation-Lab
+
+- Lab Setup
+
+1. WINDOWS SERVER.PNG
+
+![Windows Server](https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/WINDOWS%20SERVER.PNG?raw=true)
+
+
+Windows Server 2019 virtual machine was deployed as the target endpoint for log collection and security monitoring.
