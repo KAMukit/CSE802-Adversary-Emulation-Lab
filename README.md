@@ -97,4 +97,11 @@ Windows Security Event ID 4624 indicates a successful user login and was success
 Windows System Event Logs were collected and analyzed through Splunk.
 
 15.Windows System Event Log Collection in Splunk
+![8](https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/8.PNG?raw=true)
+Windows System Event Logs were successfully forwarded from the Windows Server to Splunk Enterprise and indexed for monitoring and analysis.
+
+16.Recent Event Monitoring in Splunk
+![9](https://github.com/KAMukit/CSE802-Adversary-Emulation-Lab/blob/main/9.PNG?raw=true)
+Splunk was used to monitor recently generated events from the Windows Server in near real-time, confirming successful log forwarding and data ingestion.
+Splunk was used to monitor recently generated events from the Windows Server in near real-time, confirming successful log forwarding and data ingestion.
 
